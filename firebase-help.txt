@@ -1,0 +1,8 @@
+Login: 
+firebase login
+
+Initialize new project:
+firebase init
+
+Deploy:
+firebase deploy --only hosting:pid-jeffreypolk
